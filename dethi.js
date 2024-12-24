@@ -316,7 +316,7 @@ const questions = [
       "Thiết kế.",
       "Lập trình."
     ],
-    correct: 1
+    correct: 3
   },
   {
     text: "Quy trình làm phần mềm:",
@@ -423,6 +423,16 @@ const questions = [
     options: [
       "Xây dựng không gian giải pháp cho vấn đề.",
       "Nhận biết vấn đề, bài toán thực tế, các yêu cầu mà người dùng đặt ra.",
+      "Xây dựng một hệ thống thực hiện được dựa vào thiết kế.",
+      "Thẩm định lại tính đúng đắn của giải pháp theo yêu cầu ban đầu đã đặt ra."
+    ],
+    correct: 0
+  },
+  {
+    text: "Trong quá trình phát triển phần mềm, giai đoạn kiểm định phần mềm có nghĩa là:",
+    options: [
+      "Nhận biết vấn đề, bài toán thực tế, các yêu cầu mà người dùng đặt ra.",
+      "Xây dựng không gian giải pháp cho vấn đề.",
       "Xây dựng một hệ thống thực hiện được dựa vào thiết kế.",
       "Thẩm định lại tính đúng đắn của giải pháp theo yêu cầu ban đầu đã đặt ra."
     ],
